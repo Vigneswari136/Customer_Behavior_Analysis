@@ -1,56 +1,51 @@
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
-📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+📊 Data Analyst Project – End-to-End Analysis
+Overview
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+This project demonstrates a complete data analysis workflow — from raw dataset to business insights and presentation. It includes data cleaning, SQL analysis, dashboard creation, and reporting.
+<img width="4872" height="2656" alt="Readme_img" src="https://github.com/user-attachments/assets/aab3ecea-5f3e-448d-bb69-44edb4920e18" />
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+Dataset
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+Structured dataset (CSV format)
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
- <img width="4872" height="2656" alt="Readme_img" src="https://github.com/user-attachments/assets/bd701bb6-d78b-4ea4-8ae3-88604edb7e4a" />
-🛠️ How to Use This Project
-Clone the repository
+Contains numerical and categorical features
 
-https://github.com/Vigneswari136/Customer_Behavior_Analysis/blob/main/README.md
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+Cleaned and prepared before analysis
 
-This file contains:
+Tools Used
 
-Data Import
+Python (Pandas, Matplotlib, Seaborn) – Data cleaning & EDA
 
-Data exploration
+PostgreSQL – SQL queries & data storage
 
-Data cleaning
+Power BI – Interactive dashboard
 
-Connection to SQL Database
+Gamma – Final presentation
 
-Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+Steps
 
-Create a database in SQL
+Loaded dataset in Python
 
-Run Python code to load data into SQL database
+Performed EDA and cleaned data
 
-Open customer_behavior_sql_queries.sql
+Imported cleaned data into PostgreSQL
 
-Answer Business Questions using SQL Queries
+Ran SQL queries to generate KPIs
 
-Connect the SQL Database to Power BI
+Built Power BI dashboard
 
-Open customer_behavior_dashboard.pbix
+Created report and presentation
 
-Create interactive dashboard in Power BI
+Dashboard
 
-Create Project Report and Presentation
+The Power BI dashboard includes KPI cards, trend analysis, category breakdowns, and interactive filters for better decision-making.
 
-Create project report
+Results
 
-Build presentation deck using Gamma AI
+Identified key trends and insights
 
-Follow along with the YouTube video for full walkthrough. 👨‍💼
+Generated actionable business recommendations
 
-📜 License
-MIT — feel free to fork, star, and use in your portfolio.
+Delivered findings through dashboard, report, and presentation
 
-👨‍💻 About the Author
+This project showcases data cleaning, SQL, visualization, and business reporting skills in a complete end-to-end workflow.
